@@ -1,0 +1,56 @@
+[
+  {
+    "courseCode": "DRAM 1310",
+    "courseName": "Introduction to Theatre",
+    "credits": 3,
+    "lectureContactHours": 3,
+    "labContactHours": 0,
+    "prerequisite": "",
+    "description": "Students will gain a genuine appreciation for the art and craft of theatre by reading, attending, and writing critically about plays.",
+    "repeatability": "No",
+    "coreCategory": "(50) Core-Creative Arts",
+    "tccnsEquivalent": "DRAM 1310",
+    "additionalFee": "Y"
+  },
+  {
+    "courseCode": "MUSI 1307",
+    "courseName": "Listening to Classical Music",
+    "credits": 3,
+    "lectureContactHours": 3,
+    "labContactHours": 0,
+    "prerequisite": "ENGL 1302",
+    "description": "An introduction to the masterworks of Western music from Gregorian chant to the present.",
+    "repeatability": "No",
+    "coreCategory": "(50) Core-Creative Arts",
+    "tccnsEquivalent": "MUSI 1307",
+    "additionalFee": "Y"
+  },
+  {
+    "courseCode": "CLAS 3374",
+    "courseName": "Women in the Ancient World",
+    "credits": 3,
+    "lectureContactHours": 3,
+    "labContactHours": 0,
+    "prerequisite": "ENGL 1302",
+    "description": "Women’s lives from the Graeco-Roman world. Analysis and comparisons of literary texts and archeological evidence in their cultural and historical context.",
+    "repeatability": "No",
+    "note": "Taught in English.",
+    "coreCategory": "(40) Core-Language, Philosophy & Culture",
+    "tccnsEquivalent": "",
+    "additionalFee": "Y"
+  },
+  {
+    "courseCode": "PHIL 1301",
+    "courseName": "Intro To Philosophy",
+    "credits": 3,
+    "lectureContactHours": 3,
+    "labContactHours": 0,
+    "prerequisite": "ENGL 1301",
+    "description": "Introduction to philosophy: issues such as the nature and extent of knowledge, the objectivity of scientific theories, the rationality of theistic belief, and human freedom.",
+    "repeatability": "No",
+    "note": "Formerly PHIL 1340",
+    "coreCategory": "(40) Core-Language, Philosophy & Culture",
+    "tccnsEquivalent": "PHIL 1301",
+    "additionalFee": "Y"
+  }
+]
